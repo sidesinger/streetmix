@@ -1,0 +1,1 @@
+web: supervisor --ignore public/js/*.AUTO.js server.js
